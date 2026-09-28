@@ -1,0 +1,6 @@
+*.rbxl
+*.rbxlx
+*.rbxlx.lock
+*.env
+.env*
+node_modules/
